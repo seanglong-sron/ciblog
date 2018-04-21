@@ -15,6 +15,9 @@
                 <div id="navbarColor01">
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item">
+                            <a class="nav-link" href="<?php echo base_url(); ?>posts">Blog</a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link" href="<?php echo base_url(); ?>about">About</a>
                         </li>
                     </ul>
