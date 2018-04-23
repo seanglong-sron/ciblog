@@ -7,6 +7,7 @@
         <title>CI Blog</title>
         <script src="<?php echo base_url(); ?>assets/js/jquery.js"></script>
         <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/bootwatch.flat.css">
+        <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/style.css">
     </head>
     <body>
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
