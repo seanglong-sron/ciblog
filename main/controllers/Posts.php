@@ -60,5 +60,10 @@
 
 
         }
+
+        public function update(){
+            $this->Post_model->update_post();
+            redirect('posts');
+        }
     }
 ?>

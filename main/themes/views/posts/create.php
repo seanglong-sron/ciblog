@@ -9,6 +9,6 @@
 </div>
 <div class="form-group">
     <label>Body</label>
-    <textarea class="form-control" name="body" placeholder="Add Body"></textarea>
+    <textarea id="editor1" class="form-control" name="body" placeholder="Add Body"></textarea>
 </div>
 <button type="submit" class="btn btn-success">Submit</button>
